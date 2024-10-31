@@ -15,11 +15,11 @@ e Bebidas oferecidas para venda na hamburgueria juntamento com um
 botão a baixo para contantar direto ao whatsapp para compras.
 
 
-## 🔧 Funcionalidades da Calculadora de Potencia: 
+## 🔧 Funcionalidades do App Hamburgueria
 
-- [x] Tela principal (tela com opções);
-- [x] Tela de visualização de dados;
-- [x] Tela de cadastro. 
+- [x] Tela principal (tela de login);
+- [x] Tela de cadastro (Para realizar o login). 
+- [x] Tela de cardapio( De lanches e bebidas). 
 
 
 ## 🚀 Tecnologias Utilizadas
